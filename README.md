@@ -5,3 +5,5 @@ The dataset includes the project history of Scala retrieved from Git and GitHub 
 
 # Installation (recommended)
     pip3 install jupyter
+# License
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
